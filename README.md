@@ -82,6 +82,10 @@ export GROQ_API_KEY='your_groq_api_key'
 streamlit run app.py
 ```
 
+## Application UI💻
+
+![image](https://github.com/user-attachments/assets/4d2df56b-593f-4ae0-978c-4a9a9c63959c)
+
 ## 🚀 Usage Examples
 
 ### Metric Queries
