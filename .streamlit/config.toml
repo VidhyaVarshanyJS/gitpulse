@@ -1,0 +1,8 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor = "#1f77b4"    # Light blue for primary buttons and highlights
+backgroundColor = "#F0F2F6" # Light grey background for readability
+secondaryBackgroundColor = "#FFFFFF" # Pure white for cards/sections
+textColor = "#000000"       # Black text color for easy reading
+font = "sans serif"         # Clean, professional sans serif font

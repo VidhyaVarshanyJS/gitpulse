@@ -1,0 +1,7 @@
+groq
+streamlit
+PyGithub
+plotly
+pandas
+matplotlib
+python-dotenv
